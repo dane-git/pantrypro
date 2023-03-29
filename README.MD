@@ -40,10 +40,10 @@ A brief guide to using your app goes here. Include screenshots or GIFs if possib
 
 
 Example:
-$ git clone https://github.com/username/repo.git
-$ cd repo
-$ npm install
-$ npm start
+$ git clone https://github.com/username/repo.git 
+$ cd repo  
+$ npm install  
+$ npm start  
 
 ## Contributing
 
@@ -58,7 +58,7 @@ Include a license for your app, and any relevant copyright information.
 
 Include a way for users to contact you if they have questions or feedback.
 
-Email: youremail@example.com
+Email: Dane@pantrypro.net   
 Twitter: @yourusername
 
 
